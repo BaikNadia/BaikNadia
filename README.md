@@ -2,24 +2,20 @@
 
 <img src="https://github.com/BaikNadia/BaikNadia/blob/main/cat%20gif.gif" alt="The Unlimited" width="600">
 
-### 🛠️ Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+### 🛠️ Технологии
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=BaikNadia&show_icons=true&theme=radical" />
+### 📊 Статистика GitHub
+<img src="https://github-readme-stats.vercel.app/api?username=BaikNadia&show_icons=true&theme=radical" width="450">
 
-### 📈 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaikNadia&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaikNadia&layout=compact&theme=radical" width="350">
 
-### 🔥 Streak Stats
-<img src="https://streak-stats.demolab.com?user=BaikNadia&theme=radical" />
+<img src="https://streak-stats.demolab.com?user=BaikNadia&theme=radical" width="450">
 
-### 🌐 Connect with me
-<a href="https://t.me/baikovaAI">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="mailto:baikowa.nadia@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### 📫 Связь со мной
+[![Telegram](https://img.shields.io/badge/Telegram-@baikovaAI-26A5E4?logo=telegram)](https://t.me/baikovaAI)
+[![Email](https://img.shields.io/badge/Email-baikowa.nadia@gmail.com-D14836?logo=gmail)](mailto:baikowa.nadia@gmail.com)
